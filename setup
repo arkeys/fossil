@@ -1,0 +1,7 @@
+alias fsl='fossil-5'
+
+fsl init <name>
+fsl open <name>
+fsl ui # spin up the wiki local or
+fsl server # serve it out
+
